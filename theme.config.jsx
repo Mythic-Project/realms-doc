@@ -15,7 +15,7 @@ export default {
   },
 
   chat: {
-    link: "https://discord.gg/6UZHcNJFr8",
+    link: "https://discord.com/invite/VsPbrK2hJk",
   },
 
   navbar: {
@@ -43,7 +43,7 @@ export default {
   banner: {
     key: "2.0-release",
     text: (
-      <a href="https://discord.gg/6UZHcNJFr8" target="_blank">
+      <a href="https://discord.com/invite/VsPbrK2hJk" target="_blank">
         💡 Is something not documented? Reach out to us in Discord →
       </a>
     ),

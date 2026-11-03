@@ -12,5 +12,11 @@
     "dev": "next",
     "build": "next build",
     "start": "next start"
+  },
+  "overrides": {
+    "next-mdx-remote": "^6.0.0"
+  },
+  "resolutions": {
+    "next-mdx-remote": "^6.0.0"
   }
 }
